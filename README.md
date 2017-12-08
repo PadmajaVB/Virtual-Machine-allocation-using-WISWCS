@@ -1,7 +1,11 @@
 # Virtual-Machine-allocation-using-WISWCS
 
 This repository has the code for the implementation of efficient virtual machine allocation using Weighted Interval Scheduling With Capacity Sharing (WISWCS). 
-Final simulation was done on the CloudSim environment. 
+Final simulation was done on the CloudSim environment.
+
+The following IEEE paper has been implemented: An Efficient Method for Maximizing Total Weights in Virtual Machines Allocation
+
+Link: http://ieeexplore.ieee.org/document/6821034/
 
 WICSproject.java -- This file contains the normal java code for the Weighted Interval Scheduling With Capacity Sharing (WISWCS) algorithm.
 
